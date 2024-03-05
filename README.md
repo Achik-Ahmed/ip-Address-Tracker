@@ -13,3 +13,9 @@ Hey guys, in this repository, I want to share a free and 100% accurate IP addres
 ![IP address tracker](https://www.termuxcommands.com/wp-content/uploads/2024/03/IMG_20240305_134615.jpg)
 
 Thats it, you will see the ip address informations.
+
+## Thank you for using this tool 🫶.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Achik-Ahmed.ip-Address-Tracker)
+
+
