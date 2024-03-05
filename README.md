@@ -16,6 +16,7 @@ Thats it, you will see the ip address informations.
 
 ## Thank you for using this tool 🫶.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Achik-Ahmed.ip-Address-Tracker)
+![](https://komarev.com/ghpvc/?username=Achik-Ahmed&style=flat-square)
+
 
 
